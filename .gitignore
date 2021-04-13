@@ -2,4 +2,4 @@
 ..gpg
 
 # a.out file
-/programs/a.out
+./programs/a.out
