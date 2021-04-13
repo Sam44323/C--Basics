@@ -1,2 +1,5 @@
 # Signing
 ..gpg
+
+# a.out file
+/programs/a.out
