@@ -2,6 +2,6 @@
 
 int main()
 {
-  std::cout << "Hello from C++ \n";
+  std::cout << "This is working! \n";
   return 0;
 }
