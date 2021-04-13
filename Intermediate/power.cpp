@@ -5,6 +5,8 @@ using std::cin;
 using std::cout;
 using std::endl;
 
+// declaring the function
+
 void calulatePower(double base, int exp)
 {
   cout << "Ouput for the required details is as followed " << pow(base, exp) << endl;
