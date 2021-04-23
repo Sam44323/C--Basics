@@ -7,7 +7,7 @@ int main()
 {
   for (int i = 1; i <= 10; i++)
   {
-    cout << "Value of i is " << i << endl;
+    cout << "I valued to " << i << endl;
   }
   return 0;
 }
